@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/rockpirate/my-storefront-27/
+    type: markup
+
+folders:
+  /products/: /products/default
