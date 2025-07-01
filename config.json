@@ -1,7 +1,7 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/RNnEDdwTD7S41V6q3Y3zrj/graphql",
       "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
       "headers": {
         "all": {
